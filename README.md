@@ -2,7 +2,7 @@
 ```
 Tên: Hồ Thành Đat
 
-Tuổi: 22
+Ngày sinh: 1/1/2001 
 
 Mối quan hệ: Độc thân 
 
