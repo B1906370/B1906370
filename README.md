@@ -1,5 +1,4 @@
 # Thông tin cá nhân
-#
 Tên: Hồ Thành Đat
 #
 MSSV: B1906370
