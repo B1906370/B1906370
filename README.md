@@ -1,4 +1,4 @@
-# Thông tin cá nhân
+### Thông tin cá nhân
 ```
 Tên: Hồ Thành Đạt
 
