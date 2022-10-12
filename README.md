@@ -2,6 +2,10 @@
 ```
 Tên: Hồ Thành Đat
 
+Tuổi: 23
+
+Mối quan hệ: Độc thân 
+
 MSSV: B1906370
 
 Lớp: DI1995A2
