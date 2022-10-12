@@ -1,6 +1,6 @@
 # Thông tin cá nhân
 ```
-Tên: Hồ Thành Đat
+Tên: Hồ Thành Đạt
 
 Ngày sinh: 1/1/2001 
 
@@ -10,5 +10,5 @@ MSSV: B1906370
 
 Lớp: DI1995A2
 ```
-Link fb của tôi [ở đây](https://www.facebook.com/profile.php?id=100052842335770).
+In tư fb của tôi [ở đây](https://www.facebook.com/profile.php?id=100052842335770).
 
